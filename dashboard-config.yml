@@ -30,7 +30,8 @@ obo_score_weights:
     max_impact: 1
 ontologies:
   custom:
-    - id: omo
+    - id: chebi
+      mirror_from: "https://purl.obolibrary.org/obo/chebi.owl"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
