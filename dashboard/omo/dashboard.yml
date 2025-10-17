@@ -1,0 +1,97 @@
+base_generated: true
+base_prefixes:
+- OMO
+- OMOALT
+- OMO
+changed: true
+date: 2025-10-17 12:37:03.137644
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 523
+    AnnotationPropertyRangeOf: 1
+    ClassAssertion: 19
+    Declaration: 125
+    DifferentIndividuals: 2
+    EquivalentClasses: 3
+    SubAnnotationPropertyOf: 18
+    SubClassOf: 26
+  'Axioms: Number of axioms': 717
+  'Entities: % of entities reused': 85.61
+  'Entities: Number of annotation properties': 82
+  'Entities: Number of classes': 27
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 20
+  'Entities: Number of object properties': 0
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 101
+    ObjectOneOf: 3
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _dashboard: 0.911
+    _formula: (1*impact+1*dashboard)/2
+    _impact: 0.0
+    _impact_external: 0.25
+    _reuse: 0.856
+    oboscore: 0.456
+  'Info: How many externally documented uses?': 1
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    IAO: 555
+    OMO: 36
+    dc: 35
+    dc11: 29
+    oboInOwl: 27
+    owl: 1
+    prefix_unknown: 1
+    rdfs: 123
+    xsd: 1
+  'Info: Which ontologies use it?': []
+mirror_from: http://purl.obolibrary.org/obo/omo.owl
+namespace: omo
+results:
+  FP01 Open:
+    status: PASS
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    status: PASS
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    status: PASS
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    status: PASS
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    status: PASS
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 20 warnings, 0 info messages.
+    file: robot_report
+    results:
+      ERROR: 0
+      INFO: 0
+      WARN: 20
+    status: WARN
+sha256_hash: 779c51183f570ef260bf8c2048d567be95bfa605f0427c5d06451f6abef06071
+summary:
+  comment: 1 warnings
+  status: WARN
+  summary_count:
+    ERROR: 0
+    INFO: 0
+    WARN: 1
+version: http://purl.obolibrary.org/obo/omo/releases/2025-06-18/omo.owl
