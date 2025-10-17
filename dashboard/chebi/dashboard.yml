@@ -1,0 +1,53 @@
+base_generated: true
+base_prefixes:
+- CHEBI
+- CHEBIALT
+- CHEBI
+changed: true
+failure: failed_ontology_dashboard
+last_ontology_dashboard_run_failed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 3193531
+    Declaration: 224004
+    InverseObjectProperties: 1
+    SubAnnotationPropertyOf: 6
+    SubClassOf: 379031
+    TransitiveObjectProperty: 2
+  'Axioms: Number of axioms': 3796575
+  'Entities: % of entities reused': 0.03
+  'Entities: Number of annotation properties': 43
+  'Entities: Number of classes': 223956
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 9
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 982018
+    ObjectSomeValuesFrom: 94570
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _impact: 0.0
+    _impact_external: 0.25
+    _reuse: 0.0
+  'Info: How many externally documented uses?': 2
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    BFO: 4102
+    CHEBI: 982018
+    IAO: 93542
+    RO: 90481
+    dc: 3
+    foaf: 1
+    obo: 12
+    oboInOwl: 2670701
+    owl: 19371
+    prefix_unknown: 1348368
+    rdf: 895053
+    rdfs: 204612
+  'Info: Which ontologies use it?': []
+mirror_from: https://purl.obolibrary.org/obo/chebi.owl
+namespace: chebi
+sha256_hash: 00fad0dda8affcc3a673f74e92576fc88f596a6305973ced464386cc9217fced
