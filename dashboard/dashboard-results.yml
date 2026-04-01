@@ -34,24 +34,21 @@ ontologies:
   last_ontology_dashboard_run_failed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 3196708
-      Declaration: 224257
-      InverseObjectProperties: 1
-      SubAnnotationPropertyOf: 6
-      SubClassOf: 379386
-      TransitiveObjectProperty: 2
-    'Axioms: Number of axioms': 3800360
-    'Entities: % of entities reused': 0.03
-    'Entities: Number of annotation properties': 43
-    'Entities: Number of classes': 224209
+      AnnotationAssertion: 3200668
+      Declaration: 224523
+      SubClassOf: 380123
+    'Axioms: Number of axioms': 3805314
+    'Entities: % of entities reused': 0.02
+    'Entities: Number of annotation properties': 32
+    'Entities: Number of classes': 224523
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
     'Entities: Number of object properties': 9
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 982981
-      ObjectSomeValuesFrom: 94567
-    'Info: Does the ontology fall under OWL 2 DL?': true
+      Class: 984769
+      ObjectSomeValuesFrom: 94772
+    'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
       _impact: 0.0
       _impact_external: 0.25
@@ -61,19 +58,16 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 4104
-      CHEBI: 982981
-      IAO: 93665
-      RO: 90476
-      dc: 3
-      foaf: 1
-      obo: 12
-      oboInOwl: 2672789
-      owl: 19376
-      prefix_unknown: 1349794
-      rdf: 895679
-      rdfs: 204860
+      BFO: 4107
+      CHEBI: 984769
+      IAO: 93860
+      RO: 90665
+      oboInOwl: 2675674
+      owl: 19384
+      prefix_unknown: 1351428
+      rdf: 896630
+      rdfs: 205137
     'Info: Which ontologies use it?': []
   mirror_from: https://purl.obolibrary.org/obo/chebi.owl
   namespace: chebi
-  sha256_hash: cc9e7cea3e7af65eb642cbd39d48f3a6ec210cb9eb354953063dff84d0490455
+  sha256_hash: 6ef087835daeefdf462e0d61016be94945712f8e21bc7ba02435f0dfe581d275
