@@ -34,20 +34,20 @@ ontologies:
   last_ontology_dashboard_run_failed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 3389177
-      Declaration: 237960
-      SubClassOf: 408980
-    'Axioms: Number of axioms': 4036117
+      AnnotationAssertion: 3391905
+      Declaration: 238150
+      SubClassOf: 409522
+    'Axioms: Number of axioms': 4039577
     'Entities: % of entities reused': 0.02
     'Entities: Number of annotation properties': 32
-    'Entities: Number of classes': 237960
+    'Entities: Number of classes': 238150
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
     'Entities: Number of object properties': 9
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 1055919
-      ObjectSomeValuesFrom: 109157
+      Class: 1057194
+      ObjectSomeValuesFrom: 109298
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
       _impact: 0.0
@@ -59,15 +59,15 @@ ontologies:
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
       BFO: 4121
-      CHEBI: 1055919
-      IAO: 94329
-      RO: 105036
-      oboInOwl: 2899148
+      CHEBI: 1057194
+      IAO: 94361
+      RO: 105177
+      oboInOwl: 2901004
       owl: 19427
-      prefix_unknown: 1402720
-      rdf: 979705
-      rdfs: 218533
+      prefix_unknown: 1404031
+      rdf: 980330
+      rdfs: 218723
     'Info: Which ontologies use it?': []
   mirror_from: https://purl.obolibrary.org/obo/chebi.owl
   namespace: chebi
-  sha256_hash: 1d3392298f71ed8f099c69107416d41b7b85fb61228eb1649b86210a55ae4ea9
+  sha256_hash: 88fc6f7c48213ea97f9686ff453eecde97dbc24eccf5668ba9cbeabbee96d4aa
